@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainTabBarButton.h
 //  模仿简书自定义Tabbar（纯代码）
 //
 //  Created by 纵昂 on 2017/2/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface MainTabBarButton : UIButton
+@property(nonatomic, strong)UITabBarItem *tabBarItem;
 @end
-

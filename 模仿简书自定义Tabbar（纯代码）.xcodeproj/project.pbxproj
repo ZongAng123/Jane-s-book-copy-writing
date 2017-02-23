@@ -9,12 +9,51 @@
 /* Begin PBXBuildFile section */
 		74197AC61E5EA171004A2AB3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197AC51E5EA171004A2AB3 /* main.m */; };
 		74197AC91E5EA171004A2AB3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197AC81E5EA171004A2AB3 /* AppDelegate.m */; };
-		74197ACC1E5EA171004A2AB3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197ACB1E5EA171004A2AB3 /* ViewController.m */; };
 		74197ACF1E5EA171004A2AB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74197ACD1E5EA171004A2AB3 /* Main.storyboard */; };
 		74197AD11E5EA171004A2AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74197AD01E5EA171004A2AB3 /* Assets.xcassets */; };
 		74197AD41E5EA171004A2AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74197AD21E5EA171004A2AB3 /* LaunchScreen.storyboard */; };
 		74197ADF1E5EA171004A2AB3 /* _______Tabbar_____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197ADE1E5EA171004A2AB3 /* _______Tabbar_____Tests.m */; };
 		74197AEA1E5EA171004A2AB3 /* _______Tabbar_____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197AE91E5EA171004A2AB3 /* _______Tabbar_____UITests.m */; };
+		74197B161E5EA1CD004A2AB3 /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AF81E5EA1CD004A2AB3 /* AppIcon29x29@2x.png */; };
+		74197B171E5EA1CD004A2AB3 /* AppIcon29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AF91E5EA1CD004A2AB3 /* AppIcon29x29@3x.png */; };
+		74197B181E5EA1CD004A2AB3 /* AppIcon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFA1E5EA1CD004A2AB3 /* AppIcon40x40@2x.png */; };
+		74197B191E5EA1CD004A2AB3 /* AppIcon40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFB1E5EA1CD004A2AB3 /* AppIcon40x40@3x.png */; };
+		74197B1A1E5EA1CD004A2AB3 /* AppIcon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFC1E5EA1CD004A2AB3 /* AppIcon60x60@2x.png */; };
+		74197B1B1E5EA1CD004A2AB3 /* AppIcon60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFD1E5EA1CD004A2AB3 /* AppIcon60x60@3x.png */; };
+		74197B1C1E5EA1CD004A2AB3 /* bg_tabbar~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFE1E5EA1CD004A2AB3 /* bg_tabbar~iphone.png */; };
+		74197B1D1E5EA1CD004A2AB3 /* bg_tabbar~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197AFF1E5EA1CD004A2AB3 /* bg_tabbar~iphone@2x.png */; };
+		74197B1E1E5EA1CD004A2AB3 /* bg_title_home~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B001E5EA1CD004A2AB3 /* bg_title_home~iphone.png */; };
+		74197B1F1E5EA1CD004A2AB3 /* bg_title_home~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B011E5EA1CD004A2AB3 /* bg_title_home~iphone@2x.png */; };
+		74197B201E5EA1CD004A2AB3 /* button_write~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B021E5EA1CD004A2AB3 /* button_write~iphone.png */; };
+		74197B211E5EA1CD004A2AB3 /* button_write~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B031E5EA1CD004A2AB3 /* button_write~iphone@2x.png */; };
+		74197B221E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B041E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone.png */; };
+		74197B231E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B051E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone@2x.png */; };
+		74197B241E5EA1CD004A2AB3 /* icon_tabbar_home~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B061E5EA1CD004A2AB3 /* icon_tabbar_home~iphone.png */; };
+		74197B251E5EA1CD004A2AB3 /* icon_tabbar_home~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B071E5EA1CD004A2AB3 /* icon_tabbar_home~iphone@2x.png */; };
+		74197B261E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B081E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone.png */; };
+		74197B271E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B091E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone@2x.png */; };
+		74197B281E5EA1CD004A2AB3 /* icon_tabbar_me~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0A1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone.png */; };
+		74197B291E5EA1CD004A2AB3 /* icon_tabbar_me~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0B1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone@2x.png */; };
+		74197B2A1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0C1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone.png */; };
+		74197B2B1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0D1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone@2x.png */; };
+		74197B2C1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0E1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone.png */; };
+		74197B2D1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B0F1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone@2x.png */; };
+		74197B2E1E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B101E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone.png */; };
+		74197B2F1E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B111E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone@2x.png */; };
+		74197B301E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B121E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone.png */; };
+		74197B311E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B131E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone@2x.png */; };
+		74197B321E5EA1CD004A2AB3 /* SVWebViewControllerBack.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B141E5EA1CD004A2AB3 /* SVWebViewControllerBack.png */; };
+		74197B331E5EA1CD004A2AB3 /* SVWebViewControllerBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74197B151E5EA1CD004A2AB3 /* SVWebViewControllerBack@2x.png */; };
+		74197B3F1E5EA29F004A2AB3 /* MainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B3E1E5EA29F004A2AB3 /* MainTabBarController.m */; };
+		74197B421E5EA2C4004A2AB3 /* MainNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B411E5EA2C4004A2AB3 /* MainNavigationController.m */; };
+		74197B451E5EA2E1004A2AB3 /* MainTabBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B441E5EA2E1004A2AB3 /* MainTabBarButton.m */; };
+		74197B481E5EA309004A2AB3 /* MainTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B471E5EA309004A2AB3 /* MainTabBar.m */; };
+		74197B4E1E5EA383004A2AB3 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B4D1E5EA383004A2AB3 /* HomeViewController.m */; };
+		74197B511E5EA396004A2AB3 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B501E5EA396004A2AB3 /* TestViewController.m */; };
+		74197B571E5EA3CF004A2AB3 /* MeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B561E5EA3CF004A2AB3 /* MeViewController.m */; };
+		74197B5D1E5EA404004A2AB3 /* NotificationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B5C1E5EA404004A2AB3 /* NotificationViewController.m */; };
+		74197B631E5EA445004A2AB3 /* SubscriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B621E5EA445004A2AB3 /* SubscriptionViewController.m */; };
+		74197B691E5EA47C004A2AB3 /* WriteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74197B681E5EA47C004A2AB3 /* WriteViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,8 +78,6 @@
 		74197AC51E5EA171004A2AB3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		74197AC71E5EA171004A2AB3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		74197AC81E5EA171004A2AB3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		74197ACA1E5EA171004A2AB3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		74197ACB1E5EA171004A2AB3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		74197ACE1E5EA171004A2AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		74197AD01E5EA171004A2AB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74197AD31E5EA171004A2AB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +88,56 @@
 		74197AE51E5EA171004A2AB3 /* 模仿简书自定义Tabbar（纯代码）UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "模仿简书自定义Tabbar（纯代码）UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74197AE91E5EA171004A2AB3 /* _______Tabbar_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______Tabbar_____UITests.m"; sourceTree = "<group>"; };
 		74197AEB1E5EA171004A2AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74197AF81E5EA1CD004A2AB3 /* AppIcon29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@2x.png"; sourceTree = "<group>"; };
+		74197AF91E5EA1CD004A2AB3 /* AppIcon29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@3x.png"; sourceTree = "<group>"; };
+		74197AFA1E5EA1CD004A2AB3 /* AppIcon40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon40x40@2x.png"; sourceTree = "<group>"; };
+		74197AFB1E5EA1CD004A2AB3 /* AppIcon40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon40x40@3x.png"; sourceTree = "<group>"; };
+		74197AFC1E5EA1CD004A2AB3 /* AppIcon60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon60x60@2x.png"; sourceTree = "<group>"; };
+		74197AFD1E5EA1CD004A2AB3 /* AppIcon60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon60x60@3x.png"; sourceTree = "<group>"; };
+		74197AFE1E5EA1CD004A2AB3 /* bg_tabbar~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_tabbar~iphone.png"; sourceTree = "<group>"; };
+		74197AFF1E5EA1CD004A2AB3 /* bg_tabbar~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_tabbar~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B001E5EA1CD004A2AB3 /* bg_title_home~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_title_home~iphone.png"; sourceTree = "<group>"; };
+		74197B011E5EA1CD004A2AB3 /* bg_title_home~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_title_home~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B021E5EA1CD004A2AB3 /* button_write~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_write~iphone.png"; sourceTree = "<group>"; };
+		74197B031E5EA1CD004A2AB3 /* button_write~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_write~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B041E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_home_active~iphone.png"; sourceTree = "<group>"; };
+		74197B051E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_home_active~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B061E5EA1CD004A2AB3 /* icon_tabbar_home~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_home~iphone.png"; sourceTree = "<group>"; };
+		74197B071E5EA1CD004A2AB3 /* icon_tabbar_home~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_home~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B081E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_me_active~iphone.png"; sourceTree = "<group>"; };
+		74197B091E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_me_active~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B0A1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_me~iphone.png"; sourceTree = "<group>"; };
+		74197B0B1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_me~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B0C1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_notification_active~iphone.png"; sourceTree = "<group>"; };
+		74197B0D1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_notification_active~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B0E1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_notification~iphone.png"; sourceTree = "<group>"; };
+		74197B0F1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_notification~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B101E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_subscription_active~iphone.png"; sourceTree = "<group>"; };
+		74197B111E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_subscription_active~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B121E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_subscription~iphone.png"; sourceTree = "<group>"; };
+		74197B131E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_tabbar_subscription~iphone@2x.png"; sourceTree = "<group>"; };
+		74197B141E5EA1CD004A2AB3 /* SVWebViewControllerBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SVWebViewControllerBack.png; sourceTree = "<group>"; };
+		74197B151E5EA1CD004A2AB3 /* SVWebViewControllerBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SVWebViewControllerBack@2x.png"; sourceTree = "<group>"; };
+		74197B3D1E5EA29F004A2AB3 /* MainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarController.h; sourceTree = "<group>"; };
+		74197B3E1E5EA29F004A2AB3 /* MainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarController.m; sourceTree = "<group>"; };
+		74197B401E5EA2C4004A2AB3 /* MainNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainNavigationController.h; sourceTree = "<group>"; };
+		74197B411E5EA2C4004A2AB3 /* MainNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainNavigationController.m; sourceTree = "<group>"; };
+		74197B431E5EA2E1004A2AB3 /* MainTabBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarButton.h; sourceTree = "<group>"; };
+		74197B441E5EA2E1004A2AB3 /* MainTabBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarButton.m; sourceTree = "<group>"; };
+		74197B461E5EA309004A2AB3 /* MainTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBar.h; sourceTree = "<group>"; };
+		74197B471E5EA309004A2AB3 /* MainTabBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBar.m; sourceTree = "<group>"; };
+		74197B4C1E5EA383004A2AB3 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		74197B4D1E5EA383004A2AB3 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		74197B4F1E5EA396004A2AB3 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		74197B501E5EA396004A2AB3 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		74197B551E5EA3CF004A2AB3 /* MeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeViewController.h; sourceTree = "<group>"; };
+		74197B561E5EA3CF004A2AB3 /* MeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeViewController.m; sourceTree = "<group>"; };
+		74197B5B1E5EA404004A2AB3 /* NotificationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NotificationViewController.h; sourceTree = "<group>"; };
+		74197B5C1E5EA404004A2AB3 /* NotificationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotificationViewController.m; sourceTree = "<group>"; };
+		74197B611E5EA445004A2AB3 /* SubscriptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubscriptionViewController.h; sourceTree = "<group>"; };
+		74197B621E5EA445004A2AB3 /* SubscriptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubscriptionViewController.m; sourceTree = "<group>"; };
+		74197B671E5EA47C004A2AB3 /* WriteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WriteViewController.h; sourceTree = "<group>"; };
+		74197B681E5EA47C004A2AB3 /* WriteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WriteViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +188,10 @@
 		74197AC31E5EA171004A2AB3 /* 模仿简书自定义Tabbar（纯代码） */ = {
 			isa = PBXGroup;
 			children = (
+				74197AF71E5EA1CD004A2AB3 /* jianshuImage */,
+				74197B341E5EA1FD004A2AB3 /* Classes */,
 				74197AC71E5EA171004A2AB3 /* AppDelegate.h */,
 				74197AC81E5EA171004A2AB3 /* AppDelegate.m */,
-				74197ACA1E5EA171004A2AB3 /* ViewController.h */,
-				74197ACB1E5EA171004A2AB3 /* ViewController.m */,
 				74197ACD1E5EA171004A2AB3 /* Main.storyboard */,
 				74197AD01E5EA171004A2AB3 /* Assets.xcassets */,
 				74197AD21E5EA171004A2AB3 /* LaunchScreen.storyboard */,
@@ -138,6 +225,254 @@
 				74197AEB1E5EA171004A2AB3 /* Info.plist */,
 			);
 			path = "模仿简书自定义Tabbar（纯代码）UITests";
+			sourceTree = "<group>";
+		};
+		74197AF71E5EA1CD004A2AB3 /* jianshuImage */ = {
+			isa = PBXGroup;
+			children = (
+				74197AF81E5EA1CD004A2AB3 /* AppIcon29x29@2x.png */,
+				74197AF91E5EA1CD004A2AB3 /* AppIcon29x29@3x.png */,
+				74197AFA1E5EA1CD004A2AB3 /* AppIcon40x40@2x.png */,
+				74197AFB1E5EA1CD004A2AB3 /* AppIcon40x40@3x.png */,
+				74197AFC1E5EA1CD004A2AB3 /* AppIcon60x60@2x.png */,
+				74197AFD1E5EA1CD004A2AB3 /* AppIcon60x60@3x.png */,
+				74197AFE1E5EA1CD004A2AB3 /* bg_tabbar~iphone.png */,
+				74197AFF1E5EA1CD004A2AB3 /* bg_tabbar~iphone@2x.png */,
+				74197B001E5EA1CD004A2AB3 /* bg_title_home~iphone.png */,
+				74197B011E5EA1CD004A2AB3 /* bg_title_home~iphone@2x.png */,
+				74197B021E5EA1CD004A2AB3 /* button_write~iphone.png */,
+				74197B031E5EA1CD004A2AB3 /* button_write~iphone@2x.png */,
+				74197B041E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone.png */,
+				74197B051E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone@2x.png */,
+				74197B061E5EA1CD004A2AB3 /* icon_tabbar_home~iphone.png */,
+				74197B071E5EA1CD004A2AB3 /* icon_tabbar_home~iphone@2x.png */,
+				74197B081E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone.png */,
+				74197B091E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone@2x.png */,
+				74197B0A1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone.png */,
+				74197B0B1E5EA1CD004A2AB3 /* icon_tabbar_me~iphone@2x.png */,
+				74197B0C1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone.png */,
+				74197B0D1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone@2x.png */,
+				74197B0E1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone.png */,
+				74197B0F1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone@2x.png */,
+				74197B101E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone.png */,
+				74197B111E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone@2x.png */,
+				74197B121E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone.png */,
+				74197B131E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone@2x.png */,
+				74197B141E5EA1CD004A2AB3 /* SVWebViewControllerBack.png */,
+				74197B151E5EA1CD004A2AB3 /* SVWebViewControllerBack@2x.png */,
+			);
+			path = jianshuImage;
+			sourceTree = "<group>";
+		};
+		74197B341E5EA1FD004A2AB3 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				74197B3A1E5EA249004A2AB3 /* MainTabbar */,
+				74197B391E5EA243004A2AB3 /* Home */,
+				74197B381E5EA23C004A2AB3 /* Me */,
+				74197B371E5EA22D004A2AB3 /* Notification */,
+				74197B361E5EA21C004A2AB3 /* Subscription */,
+				74197B351E5EA210004A2AB3 /* Write */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		74197B351E5EA210004A2AB3 /* Write */ = {
+			isa = PBXGroup;
+			children = (
+				74197B661E5EA462004A2AB3 /* Controller */,
+				74197B651E5EA45C004A2AB3 /* Mdoel */,
+				74197B641E5EA457004A2AB3 /* View */,
+			);
+			name = Write;
+			sourceTree = "<group>";
+		};
+		74197B361E5EA21C004A2AB3 /* Subscription */ = {
+			isa = PBXGroup;
+			children = (
+				74197B601E5EA424004A2AB3 /* Controller */,
+				74197B5F1E5EA41E004A2AB3 /* Model */,
+				74197B5E1E5EA418004A2AB3 /* View */,
+			);
+			name = Subscription;
+			sourceTree = "<group>";
+		};
+		74197B371E5EA22D004A2AB3 /* Notification */ = {
+			isa = PBXGroup;
+			children = (
+				74197B5A1E5EA3ED004A2AB3 /* Controller */,
+				74197B591E5EA3E5004A2AB3 /* Model */,
+				74197B581E5EA3E1004A2AB3 /* View */,
+			);
+			name = Notification;
+			sourceTree = "<group>";
+		};
+		74197B381E5EA23C004A2AB3 /* Me */ = {
+			isa = PBXGroup;
+			children = (
+				74197B541E5EA3BB004A2AB3 /* Controller */,
+				74197B531E5EA3B5004A2AB3 /* Model */,
+				74197B521E5EA3B0004A2AB3 /* View */,
+			);
+			name = Me;
+			sourceTree = "<group>";
+		};
+		74197B391E5EA243004A2AB3 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				74197B4B1E5EA365004A2AB3 /* Controller */,
+				74197B4A1E5EA35E004A2AB3 /* Model */,
+				74197B491E5EA359004A2AB3 /* View */,
+			);
+			name = Home;
+			sourceTree = "<group>";
+		};
+		74197B3A1E5EA249004A2AB3 /* MainTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				74197B3C1E5EA27A004A2AB3 /* Controller */,
+				74197B3B1E5EA274004A2AB3 /* View */,
+			);
+			name = MainTabbar;
+			sourceTree = "<group>";
+		};
+		74197B3B1E5EA274004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				74197B431E5EA2E1004A2AB3 /* MainTabBarButton.h */,
+				74197B441E5EA2E1004A2AB3 /* MainTabBarButton.m */,
+				74197B461E5EA309004A2AB3 /* MainTabBar.h */,
+				74197B471E5EA309004A2AB3 /* MainTabBar.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B3C1E5EA27A004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B3D1E5EA29F004A2AB3 /* MainTabBarController.h */,
+				74197B3E1E5EA29F004A2AB3 /* MainTabBarController.m */,
+				74197B401E5EA2C4004A2AB3 /* MainNavigationController.h */,
+				74197B411E5EA2C4004A2AB3 /* MainNavigationController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		74197B491E5EA359004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B4A1E5EA35E004A2AB3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		74197B4B1E5EA365004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B4C1E5EA383004A2AB3 /* HomeViewController.h */,
+				74197B4D1E5EA383004A2AB3 /* HomeViewController.m */,
+				74197B4F1E5EA396004A2AB3 /* TestViewController.h */,
+				74197B501E5EA396004A2AB3 /* TestViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		74197B521E5EA3B0004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B531E5EA3B5004A2AB3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		74197B541E5EA3BB004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B551E5EA3CF004A2AB3 /* MeViewController.h */,
+				74197B561E5EA3CF004A2AB3 /* MeViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		74197B581E5EA3E1004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B591E5EA3E5004A2AB3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		74197B5A1E5EA3ED004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B5B1E5EA404004A2AB3 /* NotificationViewController.h */,
+				74197B5C1E5EA404004A2AB3 /* NotificationViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		74197B5E1E5EA418004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B5F1E5EA41E004A2AB3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		74197B601E5EA424004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B611E5EA445004A2AB3 /* SubscriptionViewController.h */,
+				74197B621E5EA445004A2AB3 /* SubscriptionViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		74197B641E5EA457004A2AB3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		74197B651E5EA45C004A2AB3 /* Mdoel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Mdoel;
+			sourceTree = "<group>";
+		};
+		74197B661E5EA462004A2AB3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74197B671E5EA47C004A2AB3 /* WriteViewController.h */,
+				74197B681E5EA47C004A2AB3 /* WriteViewController.m */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +578,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74197B2B1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone@2x.png in Resources */,
+				74197B181E5EA1CD004A2AB3 /* AppIcon40x40@2x.png in Resources */,
+				74197B221E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone.png in Resources */,
+				74197B201E5EA1CD004A2AB3 /* button_write~iphone.png in Resources */,
+				74197B161E5EA1CD004A2AB3 /* AppIcon29x29@2x.png in Resources */,
+				74197B321E5EA1CD004A2AB3 /* SVWebViewControllerBack.png in Resources */,
+				74197B1E1E5EA1CD004A2AB3 /* bg_title_home~iphone.png in Resources */,
+				74197B191E5EA1CD004A2AB3 /* AppIcon40x40@3x.png in Resources */,
 				74197AD41E5EA171004A2AB3 /* LaunchScreen.storyboard in Resources */,
+				74197B1F1E5EA1CD004A2AB3 /* bg_title_home~iphone@2x.png in Resources */,
+				74197B261E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone.png in Resources */,
+				74197B1C1E5EA1CD004A2AB3 /* bg_tabbar~iphone.png in Resources */,
+				74197B231E5EA1CD004A2AB3 /* icon_tabbar_home_active~iphone@2x.png in Resources */,
+				74197B2D1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone@2x.png in Resources */,
+				74197B251E5EA1CD004A2AB3 /* icon_tabbar_home~iphone@2x.png in Resources */,
+				74197B1D1E5EA1CD004A2AB3 /* bg_tabbar~iphone@2x.png in Resources */,
+				74197B331E5EA1CD004A2AB3 /* SVWebViewControllerBack@2x.png in Resources */,
+				74197B211E5EA1CD004A2AB3 /* button_write~iphone@2x.png in Resources */,
+				74197B271E5EA1CD004A2AB3 /* icon_tabbar_me_active~iphone@2x.png in Resources */,
 				74197AD11E5EA171004A2AB3 /* Assets.xcassets in Resources */,
+				74197B241E5EA1CD004A2AB3 /* icon_tabbar_home~iphone.png in Resources */,
+				74197B291E5EA1CD004A2AB3 /* icon_tabbar_me~iphone@2x.png in Resources */,
 				74197ACF1E5EA171004A2AB3 /* Main.storyboard in Resources */,
+				74197B2A1E5EA1CD004A2AB3 /* icon_tabbar_notification_active~iphone.png in Resources */,
+				74197B2C1E5EA1CD004A2AB3 /* icon_tabbar_notification~iphone.png in Resources */,
+				74197B311E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone@2x.png in Resources */,
+				74197B1A1E5EA1CD004A2AB3 /* AppIcon60x60@2x.png in Resources */,
+				74197B1B1E5EA1CD004A2AB3 /* AppIcon60x60@3x.png in Resources */,
+				74197B2E1E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone.png in Resources */,
+				74197B281E5EA1CD004A2AB3 /* icon_tabbar_me~iphone.png in Resources */,
+				74197B301E5EA1CD004A2AB3 /* icon_tabbar_subscription~iphone.png in Resources */,
+				74197B2F1E5EA1CD004A2AB3 /* icon_tabbar_subscription_active~iphone@2x.png in Resources */,
+				74197B171E5EA1CD004A2AB3 /* AppIcon29x29@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +635,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74197ACC1E5EA171004A2AB3 /* ViewController.m in Sources */,
+				74197B571E5EA3CF004A2AB3 /* MeViewController.m in Sources */,
 				74197AC91E5EA171004A2AB3 /* AppDelegate.m in Sources */,
 				74197AC61E5EA171004A2AB3 /* main.m in Sources */,
+				74197B5D1E5EA404004A2AB3 /* NotificationViewController.m in Sources */,
+				74197B631E5EA445004A2AB3 /* SubscriptionViewController.m in Sources */,
+				74197B481E5EA309004A2AB3 /* MainTabBar.m in Sources */,
+				74197B451E5EA2E1004A2AB3 /* MainTabBarButton.m in Sources */,
+				74197B421E5EA2C4004A2AB3 /* MainNavigationController.m in Sources */,
+				74197B4E1E5EA383004A2AB3 /* HomeViewController.m in Sources */,
+				74197B511E5EA396004A2AB3 /* TestViewController.m in Sources */,
+				74197B691E5EA47C004A2AB3 /* WriteViewController.m in Sources */,
+				74197B3F1E5EA29F004A2AB3 /* MainTabBarController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
